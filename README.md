@@ -1,16 +1,29 @@
-## Hi there 👋
+# Kartik
 
-<!--
-**patheonsceo/patheonsceo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+22. IIT Madras. Solo founder.
 
-Here are some ideas to get you started:
+Building **[OpenCrew](https://opencrewai.com)** — an operating system for autonomous businesses.
+Agents that run your company end-to-end, not just answer questions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**What I've shipped**
+
+- [`tokburn`](https://github.com/patheonsceo/tokburn) — token + cost tracker for Claude. CLI proxy + Chrome extension.
+- [`dejamux`](https://github.com/patheonsceo/dejamux) — persistent memory layer for AI coding tools. Plain markdown, zero infra.
+- `ASTrader` — live trading simulation on NSE/MCX using AngelOne SmartAPI.
+
+---
+
+**Stack I live in**
+
+TypeScript · Python · Next.js · FastAPI · Supabase · Node
+
+---
+
+**Currently**
+
+→ Shipping OpenCrew's runtime kernel  
+→ Open to conversations with builders working on agents + autonomy
+
+[opencrewai.com](https://opencrewai.com) · [X / Twitter](https://x.com/patheonsceo)
